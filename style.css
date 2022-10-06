@@ -1,0 +1,48 @@
+body {
+   background-size: cover;
+   background-position: center; 
+}
+
+#header {
+    width: 100%;
+    text-align: left;
+}
+
+#title {
+    display: inline;
+}
+
+#instructions {
+    float: right;
+}
+
+#startButton {
+    padding: 12px;
+    font-size: 25px;
+}
+
+#status {
+    padding: 10px;
+}
+
+h4 {
+    width: 100%;
+    background-color: turquoise;
+    margin: 0px;
+    line-height: 3;
+}
+
+.listItem {
+    margin: 10px;
+    font-weight: bold;
+}
+
+.modal-dialogue {
+    margin-top: 350px;
+    width: 80%;
+}
+
+canvas {
+    border: 5px white solid;
+    border-radius: 10px;
+}
